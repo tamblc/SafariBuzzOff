@@ -1,0 +1,4 @@
+SafariBuzzOff
+=============
+
+Safari Buzzfeed blocker
